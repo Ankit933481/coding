@@ -9,12 +9,14 @@
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit933481/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2540-minimum-common-value](https://github.com/Ankit933481/coding/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankit933481/coding/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Ankit933481/coding/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Ankit933481/coding/tree/master/0704-binary-search) |
+| [2540-minimum-common-value](https://github.com/Ankit933481/coding/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +24,7 @@
 | [0242-valid-anagram](https://github.com/Ankit933481/coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ankit933481/coding/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
+| [2540-minimum-common-value](https://github.com/Ankit933481/coding/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Ankit933481/coding/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -66,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/Ankit933481/coding/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit933481/coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
