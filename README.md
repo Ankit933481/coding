@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankit933481/coding/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit933481/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ankit933481/coding/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Ankit933481/coding/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -40,6 +41,7 @@
 | [0326-power-of-three](https://github.com/Ankit933481/coding/tree/master/0326-power-of-three) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankit933481/coding/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ankit933481/coding/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
 | ------- |
