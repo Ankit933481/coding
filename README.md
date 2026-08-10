@@ -9,6 +9,7 @@
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit933481/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Ankit933481/coding/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Ankit933481/coding/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
+| [2574-left-and-right-sum-differences](https://github.com/Ankit933481/coding/tree/master/2574-left-and-right-sum-differences) |
 ## Game Theory
 |  |
 | ------- |
