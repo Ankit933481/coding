@@ -66,10 +66,12 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ankit933481/coding/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
 | [2540-minimum-common-value](https://github.com/Ankit933481/coding/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit933481/coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -110,4 +112,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ankit933481/coding/tree/master/1510-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
