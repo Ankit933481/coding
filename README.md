@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankit933481/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Ankit933481/coding/tree/master/0704-binary-search) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
@@ -24,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankit933481/coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ankit933481/coding/tree/master/0290-word-pattern) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankit933481/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Ankit933481/coding/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit933481/coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
