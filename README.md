@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Ankit933481/coding/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankit933481/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Ankit933481/coding/tree/master/0704-binary-search) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ankit933481/coding/tree/master/0283-move-zeroes) |
 | [2540-minimum-common-value](https://github.com/Ankit933481/coding/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit933481/coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
