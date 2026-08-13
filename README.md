@@ -6,6 +6,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ankit933481/coding/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Ankit933481/coding/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankit933481/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Ankit933481/coding/tree/master/0704-binary-search) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
@@ -40,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankit933481/coding/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ankit933481/coding/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Ankit933481/coding/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit933481/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit933481/coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
