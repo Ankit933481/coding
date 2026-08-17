@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankit933481/coding/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Ankit933481/coding/tree/master/0326-power-of-three) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Ankit933481/coding/tree/master/1510-stone-game-iv) |
@@ -85,6 +86,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankit933481/coding/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ankit933481/coding/tree/master/0326-power-of-three) |
 ## Two Pointers
@@ -135,6 +137,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankit933481/coding/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
