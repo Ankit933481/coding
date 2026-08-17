@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ankit933481/coding/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ankit933481/coding/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Ankit933481/coding/tree/master/0414-third-maximum-number) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ankit933481/coding/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankit933481/coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ankit933481/coding/tree/master/0290-word-pattern) |
