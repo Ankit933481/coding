@@ -21,6 +21,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Ankit933481/coding/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankit933481/coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit933481/coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankit933481/coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Ankit933481/coding/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankit933481/coding/tree/master/0101-symmetric-tree) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankit933481/coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
