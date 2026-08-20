@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/Ankit933481/coding/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Ankit933481/coding/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankit933481/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Ankit933481/coding/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Ankit933481/coding/tree/master/0704-binary-search) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
