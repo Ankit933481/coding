@@ -5,32 +5,46 @@ from typing import List
 class Solution:
 
   def findKthSmallest(self, coins: List[int], k: int) -> int:
-    n = len(coins)
-    subsets = []
+    coins.sort()
+    filtered = []
+    for c in coins:
+      if not any(c % prev == 0 for prev in filtered):
+        filtered.append(c)
 
-    # Precalculate (LCM, sign) for all 2^N - 1 non-empty subsets
-    for mask in range(1, 1 << n):
-      lcm_val = 1
-      bits = 0
-      for i in range(n):
-        if (mask >> i) & 1:
-          bits += 1
-          lcm_val = math.lcm(lcm_val, coins[i])
+    limit = filtered[0] * k
+    pos_lcms = []
+    neg_lcms = []
+    n = len(filtered)
 
-      sign = 1 if bits % 2 == 1 else -1
-      subsets.append((lcm_val, sign))
+    # 2. DFS subset generation with LCM upper-bound pruning
+    def dfs(idx: int, curr_lcm: int, count: int) -> None:
+      if idx == n:
+        if count > 0:
+          if count % 2 == 1:
+            pos_lcms.append(curr_lcm)
+          else:
+            neg_lcms.append(curr_lcm)
+        return
 
-    # Helper function to count unique amounts <= x
-    def count(x: int) -> int:
-      return sum(sign * (x // lcm_val) for lcm_val, sign in subsets)
+      # Exclude current coin
+      dfs(idx + 1, curr_lcm, count)
 
-    # Binary search within range [1, min(coins) * k]
-    left, right = 1, min(coins) * k
+      # Include current coin (only if LCM stays within upper limit)
+      next_lcm = math.lcm(curr_lcm, filtered[idx])
+      if next_lcm <= limit:
+        dfs(idx + 1, next_lcm, count + 1)
+
+    dfs(0, 1, 0)
+
+    # 3. Binary search with fast sum calculation
+    left, right = filtered[0], limit
     ans = right
 
     while left <= right:
       mid = (left + right) // 2
-      if count(mid) >= k:
+      total = sum(mid // l for l in pos_lcms) - sum(mid // l for l in neg_lcms)
+
+      if total >= k:
         ans = mid
         right = mid - 1
       else:
