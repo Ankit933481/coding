@@ -76,6 +76,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit933481/coding/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Ankit933481/coding/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ankit933481/coding/tree/master/0342-power-of-four) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Ankit933481/coding/tree/master/1510-stone-game-iv) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankit933481/coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -103,6 +104,7 @@
 | [0002-add-two-numbers](https://github.com/Ankit933481/coding/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ankit933481/coding/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ankit933481/coding/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Ankit933481/coding/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Ankit933481/coding/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Ankit933481/coding/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankit933481/coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
