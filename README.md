@@ -176,6 +176,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit933481/coding/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ankit933481/coding/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
 | ------- |
