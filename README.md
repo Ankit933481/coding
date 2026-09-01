@@ -27,6 +27,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit933481/coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankit933481/coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankit933481/coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Ankit933481/coding/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankit933481/coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit933481/coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankit933481/coding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit933481/coding/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Ankit933481/coding/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -194,6 +196,7 @@
 | [0389-find-the-difference](https://github.com/Ankit933481/coding/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Ankit933481/coding/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankit933481/coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankit933481/coding/tree/master/0101-symmetric-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,4 +243,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankit933481/coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
