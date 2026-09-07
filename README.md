@@ -79,6 +79,7 @@
 | [0242-valid-anagram](https://github.com/Ankit933481/coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ankit933481/coding/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Ankit933481/coding/tree/master/0389-find-the-difference) |
+| [0940-distinct-subsequences-ii](https://github.com/Ankit933481/coding/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Ankit933481/coding/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ankit933481/coding/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankit933481/coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ankit933481/coding/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Ankit933481/coding/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Ankit933481/coding/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Ankit933481/coding/tree/master/1872-stone-game-viii) |
