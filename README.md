@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/Ankit933481/coding/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ankit933481/coding/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ankit933481/coding/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Ankit933481/coding/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankit933481/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ankit933481/coding/tree/master/0485-max-consecutive-ones) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ankit933481/coding/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Ankit933481/coding/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Ankit933481/coding/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Ankit933481/coding/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankit933481/coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ankit933481/coding/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ankit933481/coding/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/Ankit933481/coding/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankit933481/coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ankit933481/coding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -206,6 +209,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankit933481/coding/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Ankit933481/coding/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Ankit933481/coding/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Ankit933481/coding/tree/master/1386-cinema-seat-allocation) |
@@ -262,4 +266,12 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankit933481/coding/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankit933481/coding/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
