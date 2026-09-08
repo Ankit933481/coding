@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit933481/coding/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/Ankit933481/coding/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Ankit933481/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankit933481/coding/tree/master/0342-power-of-four) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
@@ -120,6 +121,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ankit933481/coding/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankit933481/coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankit933481/coding/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -237,6 +239,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ankit933481/coding/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankit933481/coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
