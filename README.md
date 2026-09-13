@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/Ankit933481/coding/tree/master/0485-max-consecutive-ones) |
 | [0697-degree-of-an-array](https://github.com/Ankit933481/coding/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Ankit933481/coding/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/Ankit933481/coding/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Ankit933481/coding/tree/master/1386-cinema-seat-allocation) |
@@ -275,6 +276,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Ankit933481/coding/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
 |  |
