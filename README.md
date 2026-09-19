@@ -112,6 +112,7 @@
 | [0342-power-of-four](https://github.com/Ankit933481/coding/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/Ankit933481/coding/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ankit933481/coding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Ankit933481/coding/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankit933481/coding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ankit933481/coding/tree/master/1872-stone-game-viii) |
@@ -310,4 +311,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ankit933481/coding/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ankit933481/coding/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
