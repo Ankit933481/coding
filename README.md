@@ -63,6 +63,7 @@
 | [0389-find-the-difference](https://github.com/Ankit933481/coding/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankit933481/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/Ankit933481/coding/tree/master/0697-degree-of-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Ankit933481/coding/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit933481/coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -83,6 +84,7 @@
 | [0242-valid-anagram](https://github.com/Ankit933481/coding/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ankit933481/coding/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ankit933481/coding/tree/master/0414-third-maximum-number) |
+| [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit933481/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit933481/coding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -99,6 +101,7 @@
 | [0290-word-pattern](https://github.com/Ankit933481/coding/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Ankit933481/coding/tree/master/0389-find-the-difference) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankit933481/coding/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit933481/coding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Ankit933481/coding/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ankit933481/coding/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -138,6 +141,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankit933481/coding/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -241,6 +245,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,6 +284,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankit933481/coding/tree/master/0101-symmetric-tree) |
+| [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
