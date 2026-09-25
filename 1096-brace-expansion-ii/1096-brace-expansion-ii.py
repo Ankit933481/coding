@@ -1,17 +1,35 @@
 class Solution:
 
   def braceExpansionII(self, expression: str) -> list[str]:
-    def dfs(s: str) -> set[str]:
-      i = s.find('}')
-      if i == -1:
-        return set(s.split(','))
 
-      j = s.rfind('{', 0, i)
-      left, mid, right = s[:j], s[j + 1 : i], s[i + 1 :]
+    def merge(groups: list[list[str]], group: list[str]) -> None:
+      if not groups[-1]:
+        groups[-1] = group
+      else:
+        groups[-1] = [
+            word1 + word2 for word1 in groups[-1] for word2 in group
+        ]
 
-      res = set()
-      for word in mid.split(','):
-        res.update(dfs(left + word + right))
-      return res
+    def dfs(s: int, e: int) -> list[str]:
+      groups = [[]]
+      layer = 0
+      left = 0
 
-    return sorted(list(dfs(expression)))
+      for i in range(s, e + 1):
+        c = expression[i]
+        if c == '{':
+          if layer == 0:
+            left = i + 1
+          layer += 1
+        elif c == '}':
+          layer -= 1
+          if layer == 0:
+            merge(groups, dfs(left, i - 1))
+        elif c == ',' and layer == 0:
+          groups.append([])
+        elif layer == 0:
+          merge(groups, [c])
+
+      return sorted(list({word for group in groups for word in group}))
+
+    return dfs(0, len(expression) - 1)
