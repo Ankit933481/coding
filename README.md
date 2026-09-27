@@ -104,6 +104,7 @@
 | [0389-find-the-difference](https://github.com/Ankit933481/coding/tree/master/0389-find-the-difference) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankit933481/coding/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankit933481/coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankit933481/coding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ankit933481/coding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Ankit933481/coding/tree/master/1927-sum-game) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ankit933481/coding/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankit933481/coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -336,4 +338,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ankit933481/coding/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ankit933481/coding/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankit933481/coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
