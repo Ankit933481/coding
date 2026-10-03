@@ -39,6 +39,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/Ankit933481/coding/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit933481/coding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ankit933481/coding/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Ankit933481/coding/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankit933481/coding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankit933481/coding/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -279,6 +280,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Ankit933481/coding/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankit933481/coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ankit933481/coding/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Segment Tree
 |  |
 | ------- |
