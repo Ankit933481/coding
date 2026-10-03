@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ankit933481/coding/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Ankit933481/coding/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Ankit933481/coding/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ankit933481/coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit933481/coding/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit933481/coding/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Ankit933481/coding/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Ankit933481/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankit933481/coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ankit933481/coding/tree/master/0290-word-pattern) |
