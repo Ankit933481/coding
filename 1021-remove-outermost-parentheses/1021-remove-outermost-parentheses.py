@@ -2,16 +2,18 @@ class Solution:
 
   def removeOuterParentheses(self, s: str) -> str:
     res = []
-    depth = 0
+    opened = 0
+    start = 0
 
-    for char in s:
+    for i, char in enumerate(s):
       if char == "(":
-        if depth > 0:
-          res.append(char)
-        depth += 1
+        opened += 1
       else:
-        depth -= 1
-        if depth > 0:
-          res.append(char)
+        opened -= 1
+
+      # When a primitive decomposition block is complete
+      if opened == 0:
+        res.append(s[start + 1 : i])
+        start = i + 1
 
     return "".join(res)
