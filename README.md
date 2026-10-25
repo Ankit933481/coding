@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/Ankit933481/coding/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Ankit933481/coding/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Ankit933481/coding/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit933481/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -354,12 +355,14 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankit933481/coding/tree/master/0101-symmetric-tree) |
+| [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankit933481/coding/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankit933481/coding/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -393,12 +396,14 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankit933481/coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankit933481/coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Ankit933481/coding/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankit933481/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
