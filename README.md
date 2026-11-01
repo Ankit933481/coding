@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ankit933481/coding/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Ankit933481/coding/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankit933481/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankit933481/coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Ankit933481/coding/tree/master/0485-max-consecutive-ones) |
 | [0697-degree-of-an-array](https://github.com/Ankit933481/coding/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Ankit933481/coding/tree/master/0704-binary-search) |
@@ -168,6 +169,7 @@
 | [0258-add-digits](https://github.com/Ankit933481/coding/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Ankit933481/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankit933481/coding/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankit933481/coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Ankit933481/coding/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ankit933481/coding/tree/master/1401-circle-and-rectangle-overlapping) |
