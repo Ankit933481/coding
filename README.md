@@ -21,6 +21,7 @@
 | [0835-image-overlap](https://github.com/Ankit933481/coding/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Ankit933481/coding/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankit933481/coding/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit933481/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankit933481/coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Ankit933481/coding/tree/master/1386-cinema-seat-allocation) |
@@ -385,6 +386,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankit933481/coding/tree/master/0101-symmetric-tree) |
 | [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankit933481/coding/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ankit933481/coding/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -393,6 +395,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Ankit933481/coding/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ankit933481/coding/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankit933481/coding/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -414,6 +417,7 @@
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ankit933481/coding/tree/master/1267-count-servers-that-communicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit933481/coding/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -427,6 +431,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankit933481/coding/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankit933481/coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankit933481/coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
@@ -434,6 +439,7 @@
 | ------- |
 | [0835-image-overlap](https://github.com/Ankit933481/coding/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Ankit933481/coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankit933481/coding/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankit933481/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit933481/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/Ankit933481/coding/tree/master/3665-twisted-mirror-path-count) |
